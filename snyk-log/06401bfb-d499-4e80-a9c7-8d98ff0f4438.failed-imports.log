@@ -1,0 +1,1 @@
+{"name":"snyk:import-projects-script","hostname":"USC02C39TUMD6M","pid":65056,"level":50,"integrationId":"4efdc6dd-fcd7-4cc9-9d95-d96f665d3ff1","target":{"fork":false,"name":"managed-api-cd-gha-workflow","owner":"SleepNumberInc","branch":"main"},"errorData":{"errorMessage":"Could not complete API import"},"msg":"Failed to import target","time":"2022-09-30T15:39:42.493Z","v":0}
